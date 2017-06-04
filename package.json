@@ -1,0 +1,12 @@
+{
+  "name": "salsa-project",
+  "version": "1.0.0",
+  "description": "A project to aid understanding about promises and callbacks using Typescript, mocha and chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "server": "http-server src/index.js"
+  },
+  "author": "Elizabeth Venner",
+  "license": "ISC"
+}
